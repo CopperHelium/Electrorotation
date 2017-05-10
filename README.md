@@ -12,6 +12,8 @@ Fourth, run the 'PeakSteps.m' to get the peaks and steps for combined data.
 Finally, run the "Com_Plot.m" to plot the combined data. 
 
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 I only test very few data sets up to now. Errors may happen. Ask me whenever bugs arise.
 
 
