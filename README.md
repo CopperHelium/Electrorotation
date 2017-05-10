@@ -3,13 +3,20 @@ Codes are updated with separate '.m' files with each step.
 
 First, run the "convertAVI.m".
 
-Second, 
+Second, run the "TdmsWavelet.m" and "VideoWavelet.m" to get the wavelet coefficients for tdms and avi files (I think it is better store these parameters for further use.)
+ 
+Third, run the "CombWavelet.m" to combine these two data formats. 
+
+Fourth, run the 'PeakSteps.m' to get the peaks and steps for combined data.
+
+Finally, run the "Com_Plot.m" to plot the combined data. 
+
+
+I only test very few data sets up to now. Errors may happen. Ask me whenever bugs arise.
 
 
 
-
-
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Here are two main .m files, one is for tdms files(Freq_tdms.m) and another one is for the videos(Freq_avi.m).
 Including the main codes, I call several functions as followings:
