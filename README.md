@@ -1,4 +1,16 @@
 # Electrorotation
+Codes are updated with separate '.m' files with each step.
+
+First, run the "convertAVI.m".
+
+Second, 
+
+
+
+
+
+
+
 Here are two main .m files, one is for tdms files(Freq_tdms.m) and another one is for the videos(Freq_avi.m).
 Including the main codes, I call several functions as followings:
 
