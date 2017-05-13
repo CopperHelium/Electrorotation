@@ -5,13 +5,14 @@ Chi-squared methods
 
 codes are inclueded in the "Chi_test.m" and "stepfit_test.m"(function)
 
-
+***
 **
 Wavelet Transform
 
-***
+
 When choosing the files, see the upper comments of the jumped window for selecting to choose the right file formats.
-***
+
+**
 First, run the "convertAVI.m".
 
 Second, run the "TdmsWavelet.m" and "VideoWavelet.m" to get the wavelet coefficients for tdms and avi files (I think it is better store these parameters for further use.)
