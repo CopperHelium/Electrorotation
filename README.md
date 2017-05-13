@@ -1,5 +1,13 @@
 # Electrorotation
-Codes are updated with separate '.m' files with each step.
+
+**
+Chi-squared methods 
+
+codes are inclueded in the "Chi_test.m" and "stepfit_test.m"(function)
+
+
+**
+Wavelet Transform
 
 ***
 When choosing the files, see the upper comments of the jumped window for selecting to choose the right file formats.
