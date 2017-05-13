@@ -5,6 +5,8 @@ Chi-squared methods
 
 codes are inclueded in the "Chi_test.m" and "stepfit_test.m"(function)
 
+The "Evaluation.m" can be used to realize evaluating the Step Fits
+
 ***
 **
 Wavelet Transform
